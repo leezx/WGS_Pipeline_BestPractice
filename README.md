@@ -1,0 +1,2 @@
+# WGS_Pipeline_BestPractice
+WGS_Pipeline_BestPractice
